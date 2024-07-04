@@ -1,0 +1,232 @@
+# depslib dependency file v1.0
+1718228101 source:c:\users\sam\desktop\practicas c++\laboratorio 2\tpfinallabo2\main.cpp
+	<iostream>
+	<cstring>
+	"claseFecha.h"
+	"ArchivoClientes.h"
+	"Empleados.h"
+
+1718225419 c:\users\sam\desktop\practicas c++\laboratorio 2\tpfinallabo2\archivoclientes.h
+
+1718059436 c:\users\sam\desktop\practicas c++\laboratorio 2\tpfinallabo2\clasefecha.h
+	<iostream>
+	<ctime>
+
+1718228434 c:\users\sam\desktop\practicas c++\laboratorio 2\tpfinallabo2\empleados.h
+
+1718330667 source:c:\users\lujan\onedrive\escritorio\tp lab por ahora\tpfinallabo2\tpfinallabo2\main.cpp
+	<iostream>
+	<cstring>
+	"claseFecha.h"
+	"ArchivoClientes.h"
+	"Empleados.h"
+	"gpu.h"
+	"Fuente.h"
+	"Cpu.h"
+	"Mother.h"
+	"Perifericos.h"
+	"Rams.h"
+	"Menus.h"
+
+1718059436 c:\users\lujan\onedrive\escritorio\tp lab por ahora\tpfinallabo2\tpfinallabo2\clasefecha.h
+	<iostream>
+	<ctime>
+
+1718331444 c:\users\lujan\onedrive\escritorio\tp lab por ahora\tpfinallabo2\tpfinallabo2\archivoclientes.h
+
+1718313709 c:\users\lujan\onedrive\escritorio\tp lab por ahora\tpfinallabo2\tpfinallabo2\empleados.h
+
+1718330636 c:\users\lujan\onedrive\escritorio\tp lab por ahora\tpfinallabo2\tpfinallabo2\menus.h
+
+1718331133 c:\users\lujan\onedrive\escritorio\tp lab por ahora\tpfinallabo2\tpfinallabo2\gpu.h
+
+1718328255 c:\users\lujan\onedrive\escritorio\tp lab por ahora\tpfinallabo2\tpfinallabo2\fuente.h
+
+1718327366 c:\users\lujan\onedrive\escritorio\tp lab por ahora\tpfinallabo2\tpfinallabo2\cpu.h
+
+1718328182 c:\users\lujan\onedrive\escritorio\tp lab por ahora\tpfinallabo2\tpfinallabo2\mother.h
+
+1718330682 c:\users\lujan\onedrive\escritorio\tp lab por ahora\tpfinallabo2\tpfinallabo2\perifericos.h
+
+1718330693 c:\users\lujan\onedrive\escritorio\tp lab por ahora\tpfinallabo2\tpfinallabo2\rams.h
+
+1718392308 source:c:\users\bautista\desktop\nueva carpeta (2)\tpfinallabo2\main.cpp
+	<iostream>
+	<cstring>
+	"claseFecha.h"
+	"Empleados.h"
+	"gpu.h"
+	"Fuente.h"
+	"Cpu.h"
+	"Mother.h"
+	"Perifericos.h"
+	"Rams.h"
+	"ArchivoClientes.h"
+	"Menus.h"
+
+1718059436 c:\users\bautista\desktop\nueva carpeta (2)\tpfinallabo2\clasefecha.h
+	<iostream>
+	<ctime>
+
+1718313709 c:\users\bautista\desktop\nueva carpeta (2)\tpfinallabo2\empleados.h
+
+1718331133 c:\users\bautista\desktop\nueva carpeta (2)\tpfinallabo2\gpu.h
+
+1718328255 c:\users\bautista\desktop\nueva carpeta (2)\tpfinallabo2\fuente.h
+
+1718327366 c:\users\bautista\desktop\nueva carpeta (2)\tpfinallabo2\cpu.h
+
+1718328182 c:\users\bautista\desktop\nueva carpeta (2)\tpfinallabo2\mother.h
+
+1718330682 c:\users\bautista\desktop\nueva carpeta (2)\tpfinallabo2\perifericos.h
+
+1718330693 c:\users\bautista\desktop\nueva carpeta (2)\tpfinallabo2\rams.h
+
+1718392314 c:\users\bautista\desktop\nueva carpeta (2)\tpfinallabo2\archivoclientes.h
+
+1718330636 c:\users\bautista\desktop\nueva carpeta (2)\tpfinallabo2\menus.h
+
+1718569542 source:c:\users\sam\desktop\nueva carpeta\main.cpp
+	<iostream>
+	<cstring>
+	"claseFecha.h"
+	"Empleados.h"
+	"gpu.h"
+	"Fuente.h"
+	"Pcs.h"
+	"Cpu.h"
+	"almacenamiento.h"
+	"Mother.h"
+	"Perifericos.h"
+	"Rams.h"
+	"ArchivoClientes.h"
+	"Menus.h"
+
+1718059436 c:\users\sam\desktop\nueva carpeta\clasefecha.h
+	<iostream>
+	<ctime>
+
+1718485132 c:\users\sam\desktop\nueva carpeta\empleados.h
+
+1718572988 c:\users\sam\desktop\nueva carpeta\gpu.h
+
+1718572754 c:\users\sam\desktop\nueva carpeta\fuente.h
+
+1718572754 c:\users\sam\desktop\nueva carpeta\cpu.h
+
+1718572754 c:\users\sam\desktop\nueva carpeta\mother.h
+
+1718572754 c:\users\sam\desktop\nueva carpeta\perifericos.h
+
+1718572754 c:\users\sam\desktop\nueva carpeta\rams.h
+
+1718509626 c:\users\sam\desktop\nueva carpeta\archivoclientes.h
+
+1718573064 c:\users\sam\desktop\nueva carpeta\menus.h
+
+1718572754 c:\users\sam\desktop\nueva carpeta\almacenamiento.h
+
+1718572925 c:\users\sam\desktop\nueva carpeta\pcs.h
+
+1720097643 source:c:\users\sam\desktop\nueva carpeta\nueva carpeta\main.cpp
+	<iostream>
+	<cstring>
+	"claseFecha.h"
+	"Empleados.h"
+	"gpu.h"
+	"Fuente.h"
+	"Pcs.h"
+	"Cpu.h"
+	"almacenamiento.h"
+	"Mother.h"
+	"Perifericos.h"
+	"Rams.h"
+	"carrito.h"
+	"ArchivoClientes.h"
+	"Ventas.h"
+	"armadopc.h"
+	"Menus.h"
+
+1720035634 c:\users\sam\desktop\nueva carpeta\nueva carpeta\clasefecha.h
+	<iostream>
+	<ctime>
+
+1718485132 c:\users\sam\desktop\nueva carpeta\nueva carpeta\empleados.h
+
+1720095641 c:\users\sam\desktop\nueva carpeta\nueva carpeta\gpu.h
+
+1720094478 c:\users\sam\desktop\nueva carpeta\nueva carpeta\fuente.h
+
+1720096321 c:\users\sam\desktop\nueva carpeta\nueva carpeta\pcs.h
+
+1720094229 c:\users\sam\desktop\nueva carpeta\nueva carpeta\cpu.h
+
+1720064506 c:\users\sam\desktop\nueva carpeta\nueva carpeta\almacenamiento.h
+
+1720093592 c:\users\sam\desktop\nueva carpeta\nueva carpeta\mother.h
+
+1720064506 c:\users\sam\desktop\nueva carpeta\nueva carpeta\perifericos.h
+
+1720094937 c:\users\sam\desktop\nueva carpeta\nueva carpeta\rams.h
+
+1720059708 c:\users\sam\desktop\nueva carpeta\nueva carpeta\archivoclientes.h
+
+1720064124 c:\users\sam\desktop\nueva carpeta\nueva carpeta\menus.h
+
+1720097527 c:\users\sam\desktop\nueva carpeta\nueva carpeta\armadopc.h
+
+1719868613 c:\users\sam\desktop\nueva carpeta\nueva carpeta\ventas.h
+
+1720064506 c:\users\sam\desktop\nueva carpeta\nueva carpeta\carrito.h
+
+1720099489 source:c:\users\usuario\desktop\proyecto final\proyecto final\main.cpp
+	<iostream>
+	<cstring>
+	"claseFecha.h"
+	"Empleados.h"
+	"gpu.h"
+	"Fuente.h"
+	"Pcs.h"
+	"Cpu.h"
+	"almacenamiento.h"
+	"Mother.h"
+	"Perifericos.h"
+	"Rams.h"
+	"carrito.h"
+	"ArchivoClientes.h"
+	"Ventas.h"
+	"armadopc.h"
+	"Menus.h"
+
+1720035634 c:\users\usuario\desktop\proyecto final\proyecto final\clasefecha.h
+	<iostream>
+	<ctime>
+
+1718485132 c:\users\usuario\desktop\proyecto final\proyecto final\empleados.h
+
+1720095641 c:\users\usuario\desktop\proyecto final\proyecto final\gpu.h
+
+1720094478 c:\users\usuario\desktop\proyecto final\proyecto final\fuente.h
+
+1720096321 c:\users\usuario\desktop\proyecto final\proyecto final\pcs.h
+
+1720094229 c:\users\usuario\desktop\proyecto final\proyecto final\cpu.h
+
+1720064506 c:\users\usuario\desktop\proyecto final\proyecto final\almacenamiento.h
+
+1720093592 c:\users\usuario\desktop\proyecto final\proyecto final\mother.h
+
+1720064506 c:\users\usuario\desktop\proyecto final\proyecto final\perifericos.h
+
+1720094937 c:\users\usuario\desktop\proyecto final\proyecto final\rams.h
+
+1720099874 c:\users\usuario\desktop\proyecto final\proyecto final\carrito.h
+
+1720059708 c:\users\usuario\desktop\proyecto final\proyecto final\archivoclientes.h
+
+1719868613 c:\users\usuario\desktop\proyecto final\proyecto final\ventas.h
+
+1720097527 c:\users\usuario\desktop\proyecto final\proyecto final\armadopc.h
+
+1720064124 c:\users\usuario\desktop\proyecto final\proyecto final\menus.h
+
